@@ -1,8 +1,8 @@
-# Gabe's zmk-config
+# my zmk-config
 
-So far just my Corne Wireless
+Corne wireless and Lily58 wireless, both thanks to [typeractive](https://typeractive.xyz)
 
-## Typeractive Corne Wireless
+## Corne
 
 Layout image generated via https://keymap-drawer.streamlit.app
 
